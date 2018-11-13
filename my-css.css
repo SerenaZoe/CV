@@ -1,0 +1,105 @@
+body {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1.my-page-header{
+    color: white;
+    font-size: 20px;
+    margin-top: 0px;
+}
+
+h2.frame-header{
+    color: white;
+    font-size: 11px;
+    margin-top: 0px;
+}
+
+h2.my-h2{
+    color: #58056C;
+    font-size: 11px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+h3{
+    color: #243B6B;
+    font-weight: bold;
+    font-size: 9px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+h3.frame-header3{
+    color: white;
+    font-weight: bold;
+    font-size: 9px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+div.frame{
+    background-color: #243B6B;
+}
+
+p.frame{
+    color: white;
+    font-size: 9px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+p{
+    color: #243B6B;
+    font-size: 9px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+a{
+    color: #243B6B;
+    font-size: 9px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+a.frame{
+    color: white;
+    font-size: 9px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+ul{
+    color: #243B6B;
+    font-size: 9px;
+    list-style-type: disc;
+    padding-left: 15px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+ol{
+    color: #243B6B;
+    font-size: 9px;
+    padding-left: 23px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+div.container{
+    padding-bottom: 20px;
+    padding-top: 20px
+}
+
+div.row{
+    padding-top: 0px;
+}
+
+span.bold{
+    color: #243B6B;
+    font-size: 9px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    font-weight: bold;
+}
