@@ -3,13 +3,13 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-h1.my-page-header{
+h1.cv-header{
     color: white;
     font-size: 20px;
     margin-top: 0px;
 }
 
-h2.frame-header{
+h2.panel-h2{
     color: white;
     font-size: 11px;
     margin-top: 0px;
@@ -30,7 +30,7 @@ h3{
     margin-top: 8px;
 }
 
-h3.frame-header3{
+h3.panel-h3{
     color: white;
     font-weight: bold;
     font-size: 9px;
@@ -38,15 +38,16 @@ h3.frame-header3{
     margin-top: 8px;
 }
 
-div.frame{
+div.panel{
     background-color: #243B6B;
 }
 
-p.frame{
+p.panel{
     color: white;
     font-size: 9px;
     margin-bottom: 2px;
     margin-top: 2px;
+    background-color: #243B6B;
 }
 
 p{
@@ -63,11 +64,12 @@ a{
     margin-top: 2px;
 }
 
-a.frame{
+a.panel{
     color: white;
     font-size: 9px;
     margin-bottom: 2px;
     margin-top: 2px;
+    background-color: #243B6B;
 }
 
 ul{
