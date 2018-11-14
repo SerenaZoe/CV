@@ -5,19 +5,19 @@ body {
 
 h1.cv-header{
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     margin-top: 0px;
 }
 
 h2.panel-h2{
     color: white;
-    font-size: 11px;
+    font-size: 18px;
     margin-top: 0px;
 }
 
 h2.my-h2{
     color: #58056C;
-    font-size: 11px;
+    font-size: 18px;
     font-weight: bold;
     margin-top: 10px;
 }
@@ -25,7 +25,7 @@ h2.my-h2{
 h3{
     color: #243B6B;
     font-weight: bold;
-    font-size: 9px;
+    font-size: 15px;
     margin-bottom: 8px;
     margin-top: 8px;
 }
@@ -33,7 +33,7 @@ h3{
 h3.panel-h3{
     color: white;
     font-weight: bold;
-    font-size: 9px;
+    font-size: 15px;
     margin-bottom: 8px;
     margin-top: 8px;
 }
@@ -44,7 +44,7 @@ div.panel{
 
 p.panel{
     color: white;
-    font-size: 9px;
+    font-size: 12px;
     margin-bottom: 2px;
     margin-top: 2px;
     background-color: #243B6B;
@@ -52,21 +52,21 @@ p.panel{
 
 p{
     color: #243B6B;
-    font-size: 9px;
+    font-size: 12px;
     margin-bottom: 2px;
     margin-top: 2px;
 }
 
 a{
     color: #243B6B;
-    font-size: 9px;
+    font-size: 12px;
     margin-bottom: 2px;
     margin-top: 2px;
 }
 
 a.panel{
     color: white;
-    font-size: 9px;
+    font-size: 12px;
     margin-bottom: 2px;
     margin-top: 2px;
     background-color: #243B6B;
@@ -74,7 +74,7 @@ a.panel{
 
 ul{
     color: #243B6B;
-    font-size: 9px;
+    font-size: 12px;
     list-style-type: disc;
     padding-left: 15px;
     margin-top: 2px;
@@ -83,7 +83,7 @@ ul{
 
 ol{
     color: #243B6B;
-    font-size: 9px;
+    font-size: 12px;
     padding-left: 23px;
     margin-top: 2px;
     margin-bottom: 2px;
@@ -100,8 +100,16 @@ div.row{
 
 span.bold{
     color: #243B6B;
-    font-size: 9px;
+    font-size: 13px;
     margin-bottom: 2px;
     margin-top: 2px;
     font-weight: bold;
+}
+
+span.panel{
+    color: white;
+    font-size: 12px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    background-color: #243B6B;
 }
