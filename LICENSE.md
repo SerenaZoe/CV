@@ -4,7 +4,7 @@ MIT License & SIL OFL covers index.html & my-css.css files in this repository
 MIT License
 -------------------------------
 
-Copyright (c) 2018 Serena
+Copyright (c) 2018 Serena Koivurinta
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -28,13 +28,8 @@ SOFTWARE.
 SIL OPEN FONT LICENCE
 -------------------------------
 
-Copyright (c) <dates>, <Copyright Holder> (<URL|email>),
-with Reserved Font Name <Reserved Font Name>.
-
-Copyright (c) <dates>, <additional Copyright Holder> (<URL|email>),
-with Reserved Font Name <additional Reserved Font Name>.
-
-Copyright (c) <dates>, <additional Copyright Holder> (<URL|email>).
+Copyright (c) 2018, Serena Koivurinta https://serenazoe.github.io/CV/,
+with Reserved Font Name Montserrat.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
